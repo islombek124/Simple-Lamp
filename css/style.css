@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+h1{
+    text-align: center;
+    position: absolute;
+    top: 120px;
+    font-style: italic;
+    letter-spacing: 0.09em;
+
+}
+
+img{
+    width: 150px;
+    height: 270px;
+    background-color: transparent;
+}
+
+button{
+    zoom: 150%;
+    cursor: pointer;
+}
